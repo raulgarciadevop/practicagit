@@ -5,4 +5,4 @@ Practica de github
 
 
 
-ya clone el archivo equis de.
+ya clone el archivo xd
